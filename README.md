@@ -1,16 +1,17 @@
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0D1117&height=190&section=header&text=Python%20Backend%20Developer&fontSize=32&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=Building%20APIs%20%7C%20Learning%20%7C%20Creating&descAlignY=58&descSize=15" width="100%" />
+<img src="banner.jpg" width="100%" alt="Vadimcvdd Banner"/>
 
-# Hey, I'm YOUR_NAME 👋
+<br/>
 
-### 🐍 Python Backend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Vadimcvdd%40github%3A~%24+whoami;C%2B%2B+%7C+Python+Developer;ESP32+%26+Arduino+Enthusiast;Building+cool+things+with+code;Vadimcvdd%40github%3A~%24+./create.sh" alt="Typing animation"/>
 
-*Turning ideas into reliable backend applications.*
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/YOUR_USERNAME)
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A78BFA)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vadimcvdd-181717?style=for-the-badge&logo=github)](https://github.com/Vadimcvdd)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
 </div>
 
@@ -18,143 +19,74 @@
 
 ## `$ whoami`
 
-```python
-class Developer:
-    def __init__(self):
-        self.role = "Python Backend Developer"
-        self.focus = ["REST APIs", "Databases", "Backend"]
-        self.interests = [
-            "Clean Code",
-            "System Design",
-            "Open Source"
-        ]
-
-    def motto(self):
-        return "Learn. Build. Refactor. Repeat."
-
-
-me = Developer()
+```bash
+┌──(Vadimcvdd㉿github)-[~]
+└─$ cat about_me.txt
 ```
 
-- 🔭 Building personal projects and backend applications
-- 🌱 Improving my Python, API design, and database skills
-- 🧠 Interested in clean architecture and maintainable code
-- 🎯 Goal: build useful projects and keep getting better
+```text
+Name       : Vadimcvdd
+Role       : Developer & Electronics Enthusiast
+Languages  : C++, Python, HTML, CSS
+Hardware   : ESP32, Arduino
+Interests  : Programming, Embedded Systems, DIY
+Mindset    : Learn. Build. Break. Fix. Repeat.
+```
 
----
-
-## ⚡ Tech Stack
+## `$ cat skills.txt`
 
 <div align="center">
 
-### Languages & Frameworks
+**Programming & Web Development**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css" alt="Programming skills"/>
 
-### Databases & Infrastructure
+**Tools & Hardware**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" alt="Tools and hardware"/>
 
 </div>
 
-> Keep only the technologies you actually use or are learning.
+- 💻 C++ — programming and problem solving
+- 🐍 Python — scripts, automation and bots
+- 🌐 HTML & CSS — web development
+- ⚡ ESP32 & Arduino — microcontrollers and electronics
+- 🔧 DIY hardware projects and experiments
 
----
+## `$ ls projects/`
 
-## 🚀 Featured Projects
+- ⚡ ESP32 electronics experiments
+- 🤖 Python applications and Telegram bots
+- 💻 C++ programming projects
+- 🔌 Arduino and microcontroller projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 Project One
-
-**Your API Project**
-
-A REST API built with Python and FastAPI.
-
-`Python` `FastAPI` `PostgreSQL`
-
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_ONE)
-
-</td>
-<td width="50%">
-
-### 🔹 Project Two
-
-**Your Backend Application**
-
-A backend service with database integration and authentication.
-
-`Python` `SQL` `REST API`
-
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_TWO)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 Project Three
-
-**Your Automation Tool**
-
-A Python utility that automates a repetitive task.
-
-`Python` `Automation` `CLI`
-
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_THREE)
-
-</td>
-<td width="50%">
-
-### 🔹 Project Four
-
-**Your Learning Project**
-
-An experimental project for exploring backend concepts.
-
-`Python` `Testing` `APIs`
-
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_FOUR)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Activity
+## `$ git status`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vadimcvdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vadimcvdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" height="165" alt="Most used languages"/>
 
 </div>
 
----
+## `$ cat philosophy.txt`
 
-## 🌌 Current Focus
-
-- Building clean and well-documented REST APIs
-- Practicing SQL and database design
-- Writing tests and improving code quality
-- Learning deployment with Docker
-
----
+```bash
+while true; do
+    learn
+    code
+    build
+    improve
+done
+```
 
 <div align="center">
 
-### `while learning: keep_building()`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code...;Hardware+meets+software.;Always+building+something+new.;sudo+make+it+work" alt="Developer motto animation"/>
 
-*One project at a time. One improvement every day.*
+**⚡ Code it. Build it. Make it real.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=Vadimcvdd&style=flat-square&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
